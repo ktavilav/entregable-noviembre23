@@ -1,0 +1,17 @@
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .card p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .card div {
+    width: 100px;
+    height: 100px;
+    background: #fff;
+    border-radius: 5px;
+  }

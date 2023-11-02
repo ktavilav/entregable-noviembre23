@@ -1,0 +1,13 @@
+body {
+    font-family: "Helvetica", Sans-Serif;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+    font-family: verdana;
+    font-size: 100%;
+}

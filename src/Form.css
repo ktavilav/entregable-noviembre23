@@ -1,0 +1,16 @@
+form {
+    width: 400px;
+    margin: 0 auto;
+  }
+  
+  input {
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    background-color: #09d213;
+    color: #fff;
+    border-radius: 5px;
+  }
